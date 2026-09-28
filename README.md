@@ -8,5 +8,6 @@
 
 ## Print do console
 
-<img width="853" height="1079" alt="image" src="https://github.com/user-attachments/assets/22315cf8-dfb0-4047-9c95-f01bbf265b09" />
+<img width="852" height="1079" alt="image" src="https://github.com/user-attachments/assets/ae640010-a62c-47c1-bb37-84779b67b21b" />
+
 
